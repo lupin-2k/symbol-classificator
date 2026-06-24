@@ -5,7 +5,7 @@
 #include <cmath>
 #include <algorithm>
 
-const float predictionThreshold = 0.4;
+const float predictionThreshold = 0.40;
 const int inputsize = 784;
 
 float relu(float x) { return max(0, x); }

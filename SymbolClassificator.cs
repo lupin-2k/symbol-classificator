@@ -21,7 +21,7 @@ namespace SymbolClassificator
 
 
         const int targetSize = 28;
-        const double countThreshold = 0.3;
+        const double countThreshold = 0.5;
         private Point lastPoint;
         private bool isDrawing = false;
         private Bitmap handwritingBmp;
@@ -129,7 +129,7 @@ namespace SymbolClassificator
             {
                 if (draw)
                 {
-                    using (Pen drawingPen = new Pen(Color.Black, 24))
+                    using (Pen drawingPen = new Pen(Color.Black, 22))
                     {
                         drawingPen.StartCap = System.Drawing.Drawing2D.LineCap.Round;
                         drawingPen.EndCap = System.Drawing.Drawing2D.LineCap.Round;

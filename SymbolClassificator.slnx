@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="mlp/mlp.vcxproj" Id="8ab3891b-0f9e-4825-8016-635ceaaf77ec" />
+  <Project Path="SymbolClassificator.csproj" />
+</Solution>

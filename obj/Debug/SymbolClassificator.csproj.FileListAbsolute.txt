@@ -1,0 +1,17 @@
+D:\Project\SymbolClassificator\Bin\SymbolClassificator.exe
+D:\Project\SymbolClassificator\Bin\SymbolClassificator.deps.json
+D:\Project\SymbolClassificator\Bin\SymbolClassificator.runtimeconfig.json
+D:\Project\SymbolClassificator\Bin\SymbolClassificator.dll
+D:\Project\SymbolClassificator\Bin\SymbolClassificator.pdb
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.Properties.Resources.resources
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.SymbolClassificator.resources
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.csproj.GenerateResource.cache
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.AssemblyInfoInputs.cache
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.AssemblyInfo.cs
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.csproj.CoreCompileInputs.cache
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.dll
+D:\Project\SymbolClassificator\obj\Debug\refint\SymbolClassificator.dll
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.pdb
+D:\Project\SymbolClassificator\obj\Debug\SymbolClassificator.genruntimeconfig.cache
+D:\Project\SymbolClassificator\obj\Debug\ref\SymbolClassificator.dll

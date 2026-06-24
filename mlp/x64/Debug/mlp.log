@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(537,5): warning MSB8004: каталог Output заканчивается не косой чертой.  Этот экземпляр сборки добавит косую черту, поскольку она необходима для правильного определения каталога Output.
+  pch.cpp
+  dllmain.cpp
+  SymbolClassifier.cpp
+D:\Project\SymbolClassificator\mlp\SymbolClassifier.cpp(8,33): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "/SymbolClassifier.cpp")
+  
+  Создание кода...
+     Создается библиотека D:\Project\SymbolClassificator\bin\mlp.lib и объект D:\Project\SymbolClassificator\bin\mlp.exp
+  mlp.vcxproj -> D:\Project\SymbolClassificator\bin\mlp.dll

@@ -1,0 +1,17 @@
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.SymbolClassificator.resources
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.csproj.GenerateResource.cache
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.AssemblyInfoInputs.cache
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.AssemblyInfo.cs
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.csproj.CoreCompileInputs.cache
+D:\Project\SymbolClassificator\bin\Debug\net8.0-windows\SymbolClassificator.exe
+D:\Project\SymbolClassificator\bin\Debug\net8.0-windows\SymbolClassificator.deps.json
+D:\Project\SymbolClassificator\bin\Debug\net8.0-windows\SymbolClassificator.runtimeconfig.json
+D:\Project\SymbolClassificator\bin\Debug\net8.0-windows\SymbolClassificator.dll
+D:\Project\SymbolClassificator\bin\Debug\net8.0-windows\SymbolClassificator.pdb
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.dll
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\refint\SymbolClassificator.dll
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.pdb
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.genruntimeconfig.cache
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\ref\SymbolClassificator.dll
+D:\Project\SymbolClassificator\obj\Debug\net8.0-windows\SymbolClassificator.Properties.Resources.resources

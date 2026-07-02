@@ -101,7 +101,7 @@ int SymbolClassifier::predict(int* matrixpixels,int size) {
 	}
 	float sumExp = 0.0f;
 	for (unsigned int i = 0; i < numOutputs; i++) {
-		finalPrediction[i] = std::exp(finalPrediction[i] - maxLogit);
+		finalPrediction[i] = exp(finalPrediction[i] - maxLogit);
 		sumExp += finalPrediction[i];
 	}
 	for (unsigned int i = 0; i < numOutputs; i++) {
@@ -117,22 +117,6 @@ int SymbolClassifier::predict(int* matrixpixels,int size) {
 	}
 	if (highestLikelihood < predictionThreshold) return -1;
 	return mostProbClass;
-	/*for (unsigned int i = 0; i < numOutputs; i++) {
-		float sumOutput = 0;
-		for (unsigned int j = 0; j < numHidden; j++) {
-			sumOutput += hiddenOutput[j] * weightsHO[i * numHidden + j];
-		}
-		sumOutput += biasO[i];
-		finalPrediction[i] = relu(sumOutput);
-	}
-
-	int mostProbClass = 0;
-	float highestLikelihood = finalPrediction[0];
-	for (unsigned int i = 0; i < finalPrediction.size(); i++) {
-		if (finalPrediction[i] > highestLikelihood) { highestLikelihood = finalPrediction[i]; mostProbClass = i; }
-	}
-	return mostProbClass;*/
-
 }
 
 SymbolClassifier classifier;
